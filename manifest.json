@@ -1,0 +1,8 @@
+{
+    "short_name": "Rónán"
+    , "name": "Rónán O'Neill"
+    , "icons": [{ "src":"", "sizes": "", "type": ""}]
+    , "start_url": "."
+    , "background_color": "#1a1a1a"
+    , "display": "standalone"
+}
