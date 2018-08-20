@@ -3,8 +3,8 @@
  * https://github.com/necolas/normalize.css/blob/master/normalize.css
  */
 body {
-    background: #1a1a1a;
-    color: #2bbc8b;
+    background: pink;
+    color: red;
     font-size: 15px;
     margin: 0;
     font-family: menlo, sans-serif;
