@@ -3,7 +3,7 @@
  * https://github.com/necolas/normalize.css/blob/master/normalize.css
  */
 body {
-    background: blue;
+    background: pink;
     color: red;
     font-size: 15px;
     margin: 0;
@@ -39,7 +39,7 @@ a::after {
 a:hover:after { transform: scaleX(1); }
 /* Layout */
 h2 {
-    color: green;
+    color: #fff;
     display: block;
     margin: 0 0 6px 0;
     font-size: 22px;
